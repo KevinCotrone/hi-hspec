@@ -10,7 +10,7 @@ Cabal-Version:          >= 1.10
 Build-Type:             Simple
 Extra-Source-Files:     README.md, ChangeLog.md
 
--- Test
+
 Library
   Default-Language:     Haskell2010
   HS-Source-Dirs:       src
